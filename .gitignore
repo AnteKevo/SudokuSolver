@@ -1,6 +1,3 @@
-.doc
-.doc/*
-.bin/*
-.bin
-.settings
-.settings/*
+/doc/
+/settings/
+/bin/
