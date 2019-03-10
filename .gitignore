@@ -1,1 +1,6 @@
-doc/*
+.doc
+.doc/*
+.bin/*
+.bin
+.settings
+.settings/*
